@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Menu</string>
     <string name="m1">菜单x1</string>
     <string name="m2">菜单x2</string>
     <string name="m3">菜单x3</string>
